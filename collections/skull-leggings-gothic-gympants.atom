@@ -1,0 +1,2392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.skullsector.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.skullsector.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.skullsector.com/collections/skull-leggings-gothic-gympants.atom"/>
+  <title>Skull Sector</title>
+  <updated>2019-10-31T06:32:02+00:00</updated>
+  <author>
+    <name>Skull Sector</name>
+  </author>
+  <entry>
+    <id>https://www.skullsector.com/products/4332254036071</id>
+    <published>2019-10-31T06:32:02+00:00</published>
+    <updated>2019-10-31T06:32:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/sector-leggings"/>
+    <title>Gothic Sector Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-745152579.jpg?v=1572506492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our hottest leggings yet, look how amazing these are, can you imagine how sexy they would look on you?</p>
+<p><br><span><strong>Material:</strong> Faux Leather</span><br><span><strong>Waist Type:</strong> Mid</span><br><span><strong>Fabric Type:</strong> Satin</span><br><span><strong>Length:</strong> Ankle-Length</span><br><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/4332254036071</id>
+      <title>L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12797165-l-china</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/4332254036071</id>
+      <title>M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12797165-m-china</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/4332254036071</id>
+      <title>XL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12797165-xl-china</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/11681127764</id>
+    <published>2019-10-11T22:09:21+01:00</published>
+    <updated>2019-10-11T22:09:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-colorful-smile-emoji-leggings"/>
+    <title>Skull Colorful Smile Emoji Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-425357814.jpg?v=1571314974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span><strong>Name: </strong><span style="font-weight: 600;">Skull Colorful Smile Emoji Leggings</span><br><strong>Item Type:</strong> Leggings</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Thickness:</strong> Standard</span><br><span><strong>Style:</strong> Casual</span><br><span><strong>Material:</strong> Spandex,Polyester</span><br><span><strong>Length:</strong> Ankle-Length</span><br><span><strong>Fabric Type:</strong> Knitted</span><br><span><strong>Pattern Type:</strong> Print</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3880 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3880-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3878 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3878-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3871 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3871-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3870 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3870-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3868 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3868-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3866 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3866-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3855 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3855-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3844 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3844-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3842 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3842-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3789 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3789-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3762 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3762-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3761 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3761-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / XXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / XXXL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681127764</id>
+      <title>3760 / 4XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>10009399-3760-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/142288486420</id>
+    <published>2019-10-11T22:08:51+01:00</published>
+    <updated>2019-10-11T22:08:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/ethnic-skull-cropped-leggings"/>
+    <title>Ethnic Skull Cropped Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-595560977.jpg?v=1571315024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>S</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>M</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>L</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>XL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>XXL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>XXXL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/142288486420</id>
+      <title>4XL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>14533341-as-photo-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1298286018628</id>
+    <published>2019-10-11T22:08:36+01:00</published>
+    <updated>2019-10-11T22:08:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/summer-fire"/>
+    <title>Summer Fire</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-491126575.jpg?v=1571315056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298286018628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10167006-k078-burning-flame-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1304945262660</id>
+    <published>2019-10-11T22:08:31+01:00</published>
+    <updated>2019-10-11T22:08:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/sexy-hollow"/>
+    <title>Sexy Hollow</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-655971312.jpg?v=1571315075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1304945262660</id>
+      <title>4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16030380-as-photo-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1421675102311</id>
+    <published>2019-10-11T22:08:20+01:00</published>
+    <updated>2019-10-11T22:08:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/red-eye-skull-leggings"/>
+    <title>Bella Leggings Collection</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-772956769.jpg?v=1571315102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>1</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>2</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>3</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>4</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>5</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>6</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>8</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>9</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-9</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1421675102311</id>
+      <title>10</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>18807497-12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1427310805095</id>
+    <published>2019-10-10T20:11:42+01:00</published>
+    <updated>2019-10-10T20:11:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/sector-grabmes"/>
+    <title>Sector Grabmes</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-684762570.jpg?v=1571315111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1427310805095</id>
+      <title>S</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>16712929-black-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1427310805095</id>
+      <title>M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>16712929-black-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1427310805095</id>
+      <title>L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>16712929-black-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1427310805095</id>
+      <title>XL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>16712929-black-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1565832052839</id>
+    <published>2018-11-08T15:04:48+00:00</published>
+    <updated>2018-11-08T15:04:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/elegant-skull-head-dress"/>
+    <title>Elegant Skull Head Dress</title>
+    <s:type>dress</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-839351129.jpg?v=1571315221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>dress<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1565832052839</id>
+      <title>S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21243677-women-dresses-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1565832052839</id>
+      <title>M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21243677-women-dresses-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1565832052839</id>
+      <title>L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21243677-women-dresses-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1565832052839</id>
+      <title>XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21243677-women-dresses-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1565832052839</id>
+      <title>XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21243677-women-dresses-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1464528535655</id>
+    <published>2018-10-30T09:00:51+00:00</published>
+    <updated>2018-10-30T09:00:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/sector-wings-leggings"/>
+    <title>Sector Wings Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-821516593.jpg?v=1571315187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1464528535655</id>
+      <title>S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>16848578-black-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1464528535655</id>
+      <title>M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>16848578-black-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1464528535655</id>
+      <title>L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>16848578-black-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1464528535655</id>
+      <title>XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>16848578-black-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1454794604647</id>
+    <published>2018-10-12T10:26:01+01:00</published>
+    <updated>2018-10-12T10:26:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/floral-eye-leggings-1"/>
+    <title>Floral Eye Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-685545323.jpg?v=1571315156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1454794604647</id>
+      <title>S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15042323-kskdk1003-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1454794604647</id>
+      <title>M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15042323-kskdk1003-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1454794604647</id>
+      <title>L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15042323-kskdk1003-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1454794604647</id>
+      <title>XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15042323-kskdk1003-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1426943639655</id>
+    <published>2018-09-05T13:04:23+01:00</published>
+    <updated>2018-09-05T13:04:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/floral-eye-leggings"/>
+    <title>Floral Eye Leggings</title>
+    <s:type></s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-615111468.jpg?v=1571315109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p>
+<p> </p>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>XXL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>XXXL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1426943639655</id>
+      <title>4XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15003339-lgs3912-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1413811404903</id>
+    <published>2018-08-13T07:46:59+01:00</published>
+    <updated>2018-08-13T07:46:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-pirate-tights"/>
+    <title>Skull Pirate  Tights</title>
+    <s:type>tights</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-627592758.jpg?v=1571315098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>tights<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1413811404903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>15308565-w027</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1300406960196</id>
+    <published>2018-05-20T16:59:09+01:00</published>
+    <updated>2018-05-20T16:59:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/the-creepy-mask"/>
+    <title>The Creepy Mask</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-134055861.jpg?v=1571315060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1300406960196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2749096-picture-color-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1298485149764</id>
+    <published>2018-05-11T15:49:10+01:00</published>
+    <updated>2018-05-11T15:49:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/the-miserable-skulls"/>
+    <title>The Miserable Skulls</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-647677508.jpg?v=1571315057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 1 / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-sky-blue-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 1 / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-sky-blue-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 1 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-sky-blue-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 1 / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-sky-blue-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 2 / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-brown-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 2 / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-brown-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 2 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-brown-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 2 / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-brown-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 3 / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-beige-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 3 / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-beige-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 3 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-beige-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1298485149764</id>
+      <title>Miserable 3 / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>15820784-beige-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1296332718148</id>
+    <published>2018-04-30T00:55:51+01:00</published>
+    <updated>2018-04-30T00:55:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/red-rose-skull-leggings"/>
+    <title>Red Rose Skull Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-615111470.jpg?v=1571315053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1296332718148</id>
+      <title>4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15003339-lgs3912-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/1294068875332</id>
+    <published>2018-04-16T01:00:47+01:00</published>
+    <updated>2018-04-16T01:00:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/punk-pirates-skull-leggings"/>
+    <title>Punk Pirates Skull Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-408586202.jpg?v=1571315047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1294068875332</id>
+      <title>Black / One Size</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9543863-k035-black-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1294068875332</id>
+      <title>Blue / One Size</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9543863-k035-blue-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1294068875332</id>
+      <title>Gray / One Size</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9543863-k035-gray-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/1294068875332</id>
+      <title>Red / One Size</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9543863-k035-red-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/84283424788</id>
+    <published>2018-01-16T02:11:09+00:00</published>
+    <updated>2018-01-16T02:11:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/ghost-skull-leggings"/>
+    <title>Ghost Skull Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/ghost.jpg?v=1571315001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84283424788</id>
+      <title>4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2227961-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/84226310164</id>
+    <published>2018-01-16T01:47:30+00:00</published>
+    <updated>2018-01-16T01:47:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/digital-stars-sector"/>
+    <title>Digital Skull Sector</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/pants.jpg?v=1571315001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/84226310164</id>
+      <title>4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>626145-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/40303362068</id>
+    <published>2017-11-24T15:25:48+00:00</published>
+    <updated>2017-11-24T15:25:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-grid-rose"/>
+    <title>Skull Grid Rose</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-433663676.jpg?v=1571314981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><img src="//cdn.shopify.com/s/files/1/1241/1456/files/trust_badges_large.png?v=1506530827" alt=""></strong></span></p>
+<p><span><strong><img src="//cdn.shopify.com/s/files/1/1241/1456/files/Screen_Shot_2017-09-25_at_19.53.18_large.png?v=1506450615" alt=""></strong></span></p>
+<p><span><strong>Item Type:</strong> Leggings</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Length:</strong> Mid-Calf</span><br><span><strong>Thickness:</strong> Standard</span><br><span><strong>Style:</strong> Casual</span><br><span><strong>Waist Type:</strong> Mid</span><br><span><strong>Material:</strong> Spandex,Polyester</span><br><span><strong>Fabric Type:</strong> Knitted</span><br><span><strong>Pattern Type:</strong> Print</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>csv</s:tag>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/40303362068</id>
+      <title>4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10273137-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/11681162900</id>
+    <published>2017-10-10T08:15:13+01:00</published>
+    <updated>2017-10-10T08:15:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-gothic-leggings"/>
+    <title>Skull Gothic Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-425356511.jpg?v=1571314975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span><strong>Name: </strong><span style="font-weight: 600;">Skull Gothic Leggings</span><br><strong>Item Type:</strong> Leggings</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Thickness:</strong> Standard</span><br><span><strong>Waist Type:</strong> Mid</span><br><span><strong>Material:</strong> Spandex,Polyester</span><br><span><strong>Length:</strong> Ankle-Length</span><br><span><strong>Fabric Type:</strong> Knitted</span><br><span><strong>Pattern Type:</strong> Print</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / S</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / M</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / L</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-black-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681162900</id>
+      <title>Beige / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>3697241-beige-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/11681073492</id>
+    <published>2017-10-10T07:53:19+01:00</published>
+    <updated>2017-10-10T07:53:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-purple-gothic-leggings"/>
+    <title>Skull Purple Gothic Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-352919151.jpg?v=1571314974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            33.95 - 34.95
+            <a href="https://www.skullsector.com/products/skull-purple-gothic-leggings">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span><strong>Name: </strong><span style="font-weight: 600;">Skull Purple Gothic Leggings</span><br><strong>Item Type:</strong> Leggings</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Thickness:</strong> Standard</span><br><span><strong>Style:</strong> Casual</span><br><span><strong>Waist Type:</strong> Mid</span><br><span><strong>Material:</strong> Spandex,Polyester</span><br><span><strong>Length:</strong> Ankle-Length</span><br><span><strong>Fabric Type:</strong> Knitted</span><br><span><strong>Pattern Type:</strong> Print</span><br><span><strong>Item:</strong> Women Leggings</span><br><br></p><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a1-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a1-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a1-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a1-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a1-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a1-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A1 / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a1-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a2-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a2-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a2-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a2-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a2-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a2-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A2 / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a2-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a3-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a3-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a3-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a3-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a3-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a3-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A3 / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a3-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / S</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a4-s</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / M</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a4-m</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / L</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a4-l</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / XL</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>7984320-a4-xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / XXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a4-xxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / XXXL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a4-xxxl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11681073492</id>
+      <title>A4 / 4XL</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>7984320-a4-4xl</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/11181085588</id>
+    <published>2017-07-16T14:42:03+01:00</published>
+    <updated>2017-07-16T14:42:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/stocking-suspender-leg-sexy-belt"/>
+    <title>Stocking Suspender Leg Sexy Belt</title>
+    <s:type>underware</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-174340223.jpg?v=1571314930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>underware<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Name:</strong> </span>Stocking Suspender Leg Sexy Belt<br><span><strong>Item Type:</strong> Garters</span><br><span><strong>Model Number:</strong> M</span><br><span><strong>Material:</strong> Spandex</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/11181085588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>241179</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/10969380884</id>
+    <published>2017-06-19T15:45:25+01:00</published>
+    <updated>2017-06-19T15:45:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/snow-skull"/>
+    <title>Snow Skull</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-204163436.jpg?v=1571314925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>Name:</strong><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'> </span><span color="#000000" face="Helvetica Neue, Helvetica, Arial, sans-serif" data-mce-style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;" style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>Snow Skull</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Material:</strong> Spandex,Polyester</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Length:</strong> Ankle-Length</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Fabric Type:</strong> Satin</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Size:</strong> Free Size Fit For Most Of the Women Plus Size Mujer Pants Leggings</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/10969380884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>506951-a15-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/10969357588</id>
+    <published>2017-06-19T15:37:05+01:00</published>
+    <updated>2017-06-19T15:37:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/skull-striped"/>
+    <title>Skull Striped</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-204163416.jpg?v=1571314925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'>Name:</strong><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'> </span><font color="#000000" face="Helvetica Neue, Helvetica, Arial, sans-serif"><span style="font-size: 15px;">Skull Striped</span></font><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Material:</strong> Spandex,Polyester</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Length:</strong> Ankle-Length</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Fabric Type:</strong> Satin</span><br style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><span style='color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px;'><strong>Size:</strong> Free Size Fit For Most Of the Women Plus Size Mujer Pants Leggings</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/10969357588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>506951-a8-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.skullsector.com/products/10969346964</id>
+    <published>2017-06-19T15:33:59+01:00</published>
+    <updated>2017-06-19T15:33:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.skullsector.com/products/princess-of-skull-sports-leggings"/>
+    <title>Princess Of Skull Sports Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Skull Sector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1241/1456/products/product-image-83668917.jpg?v=1571314924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skull Sector<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Name:</strong> Princess Of Skull Sports Leggings<br><span><strong>Material:</strong> Spandex,Polyester</span><br><span><strong>Length:</strong> Ankle-Length</span><br><span><strong>Fabric Type:</strong> Satin</span><br><span><strong>Size:</strong> Free Size Fit For Most Of the Women Plus Size Mujer Pants Leggings</span><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.skullsector.com/products/10969346964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>506951-a7-one-size</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
