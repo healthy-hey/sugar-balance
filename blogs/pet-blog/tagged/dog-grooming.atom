@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://socialpets.ca/blogs/pet-blog.atom</id>
+  <link rel="alternate" type="text/html" href="https://socialpets.ca/blogs/pet-blog"/>
+  <link rel="self" type="application/atom+xml" href="https://socialpets.ca/blogs/pet-blog/tagged/dog-grooming.atom"/>
+  <title>Social Pets - Pet Blog</title>
+  <updated>2018-12-04T15:19:00-08:00</updated>
+  <author>
+    <name>Social Pets</name>
+  </author>
+  <entry>
+    <id>https://socialpets.ca/blogs/pet-blog/winter-grooming-tips-for-your-dog</id>
+    <published>2018-12-04T15:19:00-08:00</published>
+    <updated>2018-12-04T15:19:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://socialpets.ca/blogs/pet-blog/winter-grooming-tips-for-your-dog"/>
+    <title>Winter Grooming Tips for Your Dog</title>
+    <author>
+      <name>Alan Tan</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>It’s winter in the Okanagan, which means the temperatures are starting to drop. Many owners are bringing their dogs into the grooming salon and asking for “one last shave down” before beginning to grow their pets coat out to keep them warm over winter. With the growth of a longer coat, it is important to remember that maintenance is still necessary to maintain skin and coat health in your dog. </p>
+<p><br>Consider:<br><br><strong>Matting</strong> <br>Unfortunately, when a dog’s coat is left to grow long over winter, it usually comes at the cost of matting. But did you know that a dog with long, matted hair will be just as cold as if they were shaved? Mats hold moisture against the skin, which is not only cold but also creates an environment very susceptible to bacterial infections. Matting is also extremely uncomfortable for your dog as it causes them to be constantly itchy and irritated.<br><br><strong>Skin</strong><br>Regular baths and coat maintenance aid with the distribution of a dog’s natural oils. This helps to maintain the health of their skin and coat and prevent dry skin or dandruff. <br><br><strong>Nails</strong> <br>Nail clipping is included for any bath or haircut service provided by your groomer. In the summer, regular grooming appointments are enough to keep the nails clipped and in good condition. <br>In winter months, however, many dogs are unable to grind their nails down naturally. Without regular grooming appointments, the nails are left to grow to excessive lengths. It is not uncommon for nails to curl and grow into the dog’s pad, or for the nail to grow out to the side, twisting the dog’s toe to the side whenever they put weight on it (view image below). As you can imagine, both scenarios are painful for your dog. <br> <br><strong>Pads</strong><br>When dogs visit their groomers, they will always have their pads shaved. This is especially important in winter to prevent clumps of snow and road salt from becoming entangled in the hair between their pads, which can be painful and cause burning or irritation. <br><br>In conclusion, it is essential that regular grooming appointments are continued throughout the winter months. Many groomers recommend an appointment every 4 – 6 weeks, with regular brushing at home. With regular appointments, your groomer can maintain your dogs long winter coat, skin, nails, pads, and overall grooming health throughout the winter months.</p>]]>
+    </content>
+  </entry>
+</feed>
